@@ -2,4 +2,6 @@
     <string name="app_name">Lucky_Number_App</string>
     <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
     <string name="enter_your_name">Enter your name!</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
 </resources>
